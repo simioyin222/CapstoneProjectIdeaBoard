@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T18:50:07.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AVBfvrLild7EULdVQb2Z" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T19:16:01.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jjkcDB6NAfodtotH-e3b" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="3861" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -167,6 +167,22 @@
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-162" target="BmP0dDk1l4rGryoXVfla-162">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-164" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="-110" as="sourcePoint" />
+            <mxPoint x="1110" y="-300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="-110" />
+              <mxPoint x="960" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-165" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-590" width="470" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-166" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A game recommendation app that suggests games based on user preferences, including genre, game mechanics, and storytelling style.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-465" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
