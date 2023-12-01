@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T18:43:11.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kXioWX5lVWzGBK5Md_ub" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T18:50:07.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AVBfvrLild7EULdVQb2Z" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3861" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3861" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,53 @@
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-151" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Fam&lt;br&gt;Friends&lt;br&gt;Faith&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="955" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-152" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-120" width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-153" value="Video Game Experiences" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-70" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-154" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.428;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BmP0dDk1l4rGryoXVfla-152">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="850" y="270" as="sourcePoint" />
+            <mxPoint x="950" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="853" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-155" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+            <mxPoint x="710" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-158" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="640" as="sourcePoint" />
+            <mxPoint x="1070" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1370" y="570" />
+              <mxPoint x="990" y="590" />
+              <mxPoint x="1280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-159" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1239" y="585" as="sourcePoint" />
+            <mxPoint x="1520" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-161" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-30" width="370" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-162" value="&quot;Gamification for Fitness&quot;: Integrating game elements into workout apps for motivation." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-162" target="BmP0dDk1l4rGryoXVfla-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
