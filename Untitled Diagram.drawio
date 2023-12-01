@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T21:03:52.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eby7Jpdm25H4-SQiAJSf" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:20:04.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0caxRjr2UmnyvLkwnbHP" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="6855" dy="3980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -295,6 +295,30 @@
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-196" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1605" y="958" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-197" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="BmP0dDk1l4rGryoXVfla-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1040" as="sourcePoint" />
+            <mxPoint x="620" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-199" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1300" width="570" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-203" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="1490" as="sourcePoint" />
+            <mxPoint x="920" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-204" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.798;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-138" target="BmP0dDk1l4rGryoXVfla-199">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="1270" as="sourcePoint" />
+            <mxPoint x="1300" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-205" value="Relaxation and Breathing Exercise App:&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 21px; text-align: left;&quot;&gt; Develop an app for downtime and relaxation, featuring guided breathing exercises, meditation sessions, and personalized relaxation techniques.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="1500" width="255" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
