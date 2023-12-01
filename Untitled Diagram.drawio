@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T22:27:36.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7rEd8_wWA9y3Fb8oIIaY" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T22:55:58.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cf_NkqYfhgnFplef9agx" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="6855" dy="3980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -162,8 +162,8 @@
         <mxCell id="BmP0dDk1l4rGryoXVfla-161" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="170" width="430" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="BmP0dDk1l4rGryoXVfla-162" value="&quot;Gamification for Fitness&quot;: Integrating game elements into workout apps for motivation." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="335" width="60" height="30" as="geometry" />
+        <mxCell id="BmP0dDk1l4rGryoXVfla-162" value="&quot;Gamification for Fitness&quot;: Integrating game elements into workout apps for motivation." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="345" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-162" target="BmP0dDk1l4rGryoXVfla-162">
           <mxGeometry relative="1" as="geometry" />
@@ -357,6 +357,67 @@
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-212" value="Clothing Style Recommender:&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 28px; text-align: left;&quot;&gt; An app that suggests clothing styles based on personal preferences, current trends, and user input. It could have a feature where users can upload their current wardrobe items and receive style recommendations.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="710" y="-840" width="417.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-213" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="100" width="500" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-214" value="Game-Themed Fitness Tracker:&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; text-align: left;&quot;&gt; A fitness app with a gaming twist, where workout achievements unlock game-related rewards or features, combining your love for gaming and exercise.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="265" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-215" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;width=22.857142857142858;endSize=11.971428571428573;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-137" target="BmP0dDk1l4rGryoXVfla-216">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="150" as="sourcePoint" />
+            <mxPoint x="-510" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-216" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-380" width="540" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-217" value="An interactive tech news app that uses augmented reality (AR) to bring the latest tech news and gadget reviews to life." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-220" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-142">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="670" as="sourcePoint" />
+            <mxPoint x="-530" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-221" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="390" width="520" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-222" value="A UFC fan app providing detailed fighter profiles, match histories, and notifications for upcoming UFC events." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="620" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-162" target="BmP0dDk1l4rGryoXVfla-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-224" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BmP0dDk1l4rGryoXVfla-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="1050" as="sourcePoint" />
+            <mxPoint x="1510" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="1060" />
+              <mxPoint x="1210" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-225" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1100" width="570" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-226" value="A social planning app for family and friends that includes features for organizing events, sharing inspirational quotes, and coordinating community service activities." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="1637.5" y="1340" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-227" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1330" as="sourcePoint" />
+            <mxPoint x="690" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-228" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1560" width="400" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-229" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;A relaxation app that offers guided meditations, reading suggestions, calming music playlists, and hobby ideas based on the user&#39;s mood.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="706" y="1770" width="174" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
