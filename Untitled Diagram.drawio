@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T19:16:01.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jjkcDB6NAfodtotH-e3b" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T19:45:07.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h75880_g3zNEZT5BJyPd" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="3861" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -153,17 +153,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BmP0dDk1l4rGryoXVfla-159" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BmP0dDk1l4rGryoXVfla-159" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="BmP0dDk1l4rGryoXVfla-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1239" y="585" as="sourcePoint" />
             <mxPoint x="1520" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-161" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-30" width="370" height="280" as="geometry" />
+          <mxGeometry x="1530" y="170" width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-162" value="&quot;Gamification for Fitness&quot;: Integrating game elements into workout apps for motivation." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="1690" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmP0dDk1l4rGryoXVfla-162" target="BmP0dDk1l4rGryoXVfla-162">
           <mxGeometry relative="1" as="geometry" />
@@ -183,6 +183,24 @@
         </mxCell>
         <mxCell id="BmP0dDk1l4rGryoXVfla-166" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A game recommendation app that suggests games based on user preferences, including genre, game mechanics, and storytelling style.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-465" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-168" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="360" as="sourcePoint" />
+            <mxPoint x="1360" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="-60" as="sourcePoint" />
+            <mxPoint x="1340" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-171" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-200" width="490" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BmP0dDk1l4rGryoXVfla-172" value="&lt;font style=&quot;font-size: 22px; background-color: rgb(255, 255, 255);&quot;&gt;Game Interface Design Tool:&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt; Develop a tool or platform specifically for designing and prototyping game interfaces, focusing on user experience and innovative UI elements.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
